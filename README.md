@@ -58,7 +58,7 @@ My personal developer portfolio showcasing my projects, technical skills, CV and
 ## 📫 Connect With Me
 
 🌐 [Portfolio](https://seankarichodev.github.io/sean-portfolio/) 
-💼 LinkedIn — Coming Soon
+💼 [LinkedIn](https://www.linkedin.com/in/ray-jones-28284842b)
 
 ---
 
