@@ -57,7 +57,7 @@ My personal developer portfolio showcasing my projects, technical skills, CV and
 
 ## 📫 Connect With Me
 
-🌐 Portfolio — Coming Soon  
+🌐 [Portfolio](https://seankarichodev.github.io/sean-portfolio/) 
 💼 LinkedIn — Coming Soon
 
 ---
